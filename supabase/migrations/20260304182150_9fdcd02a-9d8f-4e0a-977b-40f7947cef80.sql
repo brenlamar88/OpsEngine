@@ -1,0 +1,1 @@
+ALTER TABLE public.daily_operations ADD COLUMN initial_submitted_at timestamptz DEFAULT NULL;

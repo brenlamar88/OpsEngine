@@ -1,0 +1,2 @@
+ALTER TABLE public.daily_operations 
+DROP CONSTRAINT daily_operations_facility_id_date_key;
