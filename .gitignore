@@ -1,0 +1,33 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+dist-ssr
+
+# Local env files
+*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+# Editor directories
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# Test coverage
+coverage
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Supabase local temp
+supabase/.temp
